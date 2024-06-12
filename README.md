@@ -6,7 +6,7 @@ Welcome to my Embedded AI Project! This project is a culmination of my work and 
 
 ### 1. Audio Accuracy Detection
 
-In this project, using human voice i tried to detect is the machine capable for detecting the keyword or any senteces and give the accuracy,I used 4 real human voice and also some generative voice for this task and succesfully implemented this project.
+In this project, using human voice i tried to detect is the machine capable for detecting the keyword or any sentences and give the accuracy,I used 4 real human voice and also some generative voice for this task and succesfully implemented this project.
 
 ## Technologies Used
 
